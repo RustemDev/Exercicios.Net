@@ -1,0 +1,5 @@
+public class Loja
+{
+  public string Mercadoria {get; set;}
+  public string Funcionarios {get; set;}
+}
